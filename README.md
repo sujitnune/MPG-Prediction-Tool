@@ -60,7 +60,3 @@ The final model selected was the **Random Forest Regressor**, which yielded the 
     * HTML5
     * CSS3
     * JavaScript (ES6)
-
----
-
-## 📂 Project Structure
