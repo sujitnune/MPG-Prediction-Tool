@@ -11,9 +11,6 @@ This project predicts vehicle fuel efficiency (MPG) using a machine learning mod
 The `index.html` file is a live, interactive demo. You can open it in any web browser to use the tool.
 
 
-
-*(Insert a screenshot of your `index.html` application here)*
-
 ---
 
 ## ✨ Features
